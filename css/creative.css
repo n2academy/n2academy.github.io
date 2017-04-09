@@ -601,7 +601,7 @@ input{
 /* questions */
 .question{
     font-family: "Roboto", Helvetica;
-    font-weight: 400;
+    font-weight: 500;
 }
 .answer{
     font-family: "Roboto", Helvetica;
@@ -609,4 +609,8 @@ input{
     text-align: left;
     font-size: 16px;
     color: #222;
+}
+
+.answer b {
+    font-weight: 400;
 }
