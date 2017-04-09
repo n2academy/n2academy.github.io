@@ -1,2 +1,2 @@
 # n2academy.github.io
-wesbite
+website
