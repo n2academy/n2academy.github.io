@@ -600,10 +600,12 @@ input{
 }
 /* questions */
 .question{
+    margin-bottom: 0px;
     font-family: "Roboto", Helvetica;
     font-weight: 500;
 }
 .answer{
+    margin-bottom: 10px;
     font-family: "Roboto", Helvetica;
     font-weight: 300;
     text-align: left;
